@@ -38,7 +38,3 @@ The results are printed to CloudWatch Logs. To process the results further, you 
 - Validate the Snowflake database, schema, warehouse, and table exist.
 - Check the IAM permissions allow the Lambda to get secrets. 
 - Ensure VPC is configured properly to allow connections to Snowflake.
-
-## Licensing
-
-This code is released under the MIT License. See LICENSE for details.
